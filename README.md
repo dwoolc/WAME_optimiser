@@ -6,7 +6,7 @@ https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-50.pdf
 
 This repo contains a single script for the optimiser itself. The optimiser inherits from the Keras optimizer class, and is intended to be used as a back-prop method for the optimiser parameter in a Keras model.  
 
-Inspiration drawn from the repo from the WAME author at https://github.com/nitbix/keras-oldfork/blob/master/keras/optimizers.py
+Inspiration drawn from the repo from the WAME author <a href="https://github.com/nitbix/keras-oldfork/blob/master/keras/optimizers.py">here</a>. 
 
 ### Deployment
 
