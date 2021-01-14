@@ -1,8 +1,8 @@
 # WAME_optimiser
 
 
-This repo contains the code used to re-create the "Weight–wise Adaptive learning rates with Moving average Estimator" (WAME). The paper can be found at:  
-https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-50.pdf  
+This repo contains the code used to re-create the "Weight–wise Adaptive learning rates with Moving average Estimator" (WAME). The paper can be found <a href="https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2017-50.pdf">here</a>.   
+  
 
 This repo contains a single script for the optimiser itself. The optimiser inherits from the Keras optimizer class, and is intended to be used as a back-prop method for the optimiser parameter in a Keras model.  
 
